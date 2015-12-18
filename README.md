@@ -1,5 +1,5 @@
 # Snake Game HTML5
-Learn how to create a Snake Game with HTML5 Canvas and JavaScript. We create a playable game that uses a texture atlas, step by step, and explain all the algorithms.
+A Snake Game with HTML5 Canvas and JavaScript that displays sprites using a texture atlas.
 
 This is a code example that belongs to the article: [Creating A Snake Game Tutorial With HTML5](http://rembound.com/articles/creating-a-snake-game-tutorial-with-html5)
 
